@@ -13,7 +13,7 @@ class B
       { 
 	   PrivateAccessSpecifier obj = new PrivateAccessSpecifier(); 
           //trying to access private method of another class 
-          obj.display(); 
+         // obj.display(); 
       } 
 
 }
